@@ -1,4 +1,4 @@
-# Hi, I'm Md Reza 👋
+# Hi Dear, I'm Md Reza 👋
 
 **2nd Year ECE Student at Central University of Karnataka**  
 Passionate about electronics, programming, and exploring the world!
@@ -25,10 +25,7 @@ Passionate about electronics, programming, and exploring the world!
   Built a functioning mini piano using Arduino, integrating sensors and basic sound generation.
 
 Explore more of my work in these repositories:
-- [LocalRepo](https://github.com/Rajaak78-debug/LocalRepo)
-- [Coding_world](https://github.com/Rajaak78-debug/Coding_world)
-- [LocalrRepo](https://github.com/Rajaak78-debug/LocalrRepo)
-- [Reza](https://github.com/Rajaak78-debug/Reza)
+- Rajaak78-debug/Rajaak78-debug
 
 ## 🌱 Hobbies & Interests
 
