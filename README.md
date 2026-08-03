@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=280&text=MD%20REZA&fontSize=70&fontColor=ffffff&animation=twinkling&color=0:141E30,50:243B55,100:4CA1AF&desc=Electronics%20•%20Innovation%20•%20Technology&descSize=20"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F2027,50:203A43,100:2C5364&text=MD%20REZA&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Electronics%20%7C%20Embedded%20Systems%20%7C%20AI&descAlignY=60"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=700&lines=Electronics+and+Communication+Engineer;Embedded+Systems+Enthusiast;Python+Developer;Always+learning+something+new+🚀"/>
 
 </div>
 
