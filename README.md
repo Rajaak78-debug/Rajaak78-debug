@@ -1,41 +1,60 @@
-# Hi Dear, I'm Md Reza 👋
+<div align="center">
 
-**2nd Year ECE Student at Central University of Karnataka**  
-Passionate about electronics, programming, and exploring the world!
+# 𝙈𝘿 𝙍𝙚𝙯𝙖 ⚡
 
----
+### Electronics & Communication Engineer • Embedded Systems Enthusiast • AI Explorer
 
-## 🚀 About Me
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=22&pause=1000&color=6AD3F3&center=true&vCenter=true&width=600&lines=Building+the+future+with+electronics;Embedded+Systems+%7C+Python+%7C+AI;Always+learning+something+new+%F0%9F%9A%80" />
 
-- 🎓 Currently pursuing B.Tech in Electronics and Communication Engineering (ECE).
-- 💡 Interested in IoT, embedded systems, and creative tech projects.
-- 🔎 Always curious, always learning!
-
-## 🛠️ Skills
-
-- **Programming:** C, Java (basics), Python (beginner)
-- **Hardware:** Arduino, sensors, prototyping
-
-## 🌟 Projects
-
-- **Smart Door Lock:**  
-  Designed and implemented a secure door lock system using Arduino and IoT concepts.
-
-- **Mini Piano:**  
-  Built a functioning mini piano using Arduino, integrating sensors and basic sound generation.
-
-Explore more of my work in these repositories:
-- Rajaak78-debug/Rajaak78-debug
-
-## 🌱 Hobbies & Interests
-
-- ✈️ Travelling to new places
-- 🌳 Exploring nature and the outdoors
-
-## 📫 Connect with Me
-
-- [LinkedIn](https://www.linkedin.com/in/md-reza-213660343/)
+</div>
 
 ---
 
-> “Every day is a chance to learn something new!”
+## 🌌 About Me
+
+```txt
+🎓 B.Tech in Electronics & Communication Engineering
+⚡ Passionate about Embedded Systems and AI
+🐍 Learning Python and modern technologies
+💡 Turning ideas into real-world projects
+```
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,java,python,git,github,vscode" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+✨ Smart Door Lock using Arduino
+
+🎮 Tic-Tac-Toe Game in Python
+
+🃏 Card Game using Python
+
+🔬 Electronics and Embedded Projects
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Rajaak78-debug&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Rajaak78-debug&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+<div align="center">
+
+### ✨ "Creating, learning, and innovating every day."
+
+</div>
