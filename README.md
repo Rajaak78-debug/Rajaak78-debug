@@ -22,9 +22,9 @@ interests:
   - Python Development
 
 currently_learning:
-  - Embedded Programming
-  - Machine Learning
-  - Advanced Python
+  - Embedded Programming/C
+  - VLSI
+  - Volunteering(IEEE)
 
 hobbies:
   - Learning new technologies
